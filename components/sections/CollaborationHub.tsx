@@ -17,7 +17,7 @@ import {
   Paperclip,
   Loader2
 } from "lucide-react";
-import { db, auth } from "@/lib/firebase";
+import { db, auth } from "../../lib/firebase";
 import { 
   collection, 
   query, 
